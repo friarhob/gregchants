@@ -20,7 +20,7 @@
     },
     {
       "name": "Local Version of Gregorian Chant",
-      "url": "../data/mp3/Gregorian%20Chant.mp3",
+      "url": "./data/mp3/Gregorian%20Chant.mp3",
       "filename": "Gregorian Chant.mp3"
     }
   ]
