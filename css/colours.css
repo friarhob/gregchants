@@ -1,0 +1,12 @@
+/* #6c1305 - cor do título / menu */
+/* #666666 - cor do texto */
+/* #f8f7f3 - fundo do título */
+
+:root {
+  --menu-bg: #6c1305;
+  --menu-fg: #f8f7f3;
+  --title-bg: #f8f7f3;
+  --title-fg: #6c1305;
+  --text-bg: #ffffff;
+  --text-fg: #666666;
+}

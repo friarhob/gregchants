@@ -1,0 +1,27 @@
+{
+  "music": [
+    {
+      "name": "Kevin Macleod's Ever Mindful",
+      "url":
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ever%20Mindful.mp3",
+      "filename": "Ever Mindful.mp3"
+    },
+    {
+      "name": "Kevin Macleod's Bittersweet",
+      "url":
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bittersweet.mp3",
+      "filename": "Bittersweet.mp3"
+    },
+    {
+      "name": "Kevin Macleod's Gregorian Chant",
+      "url":
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Gregorian%20Chant.mp3",
+      "filename": "Gregorian Chant.mp3"
+    },
+    {
+      "name": "Local Version of Gregorian Chant",
+      "url": "../data/mp3/Gregorian%20Chant.mp3",
+      "filename": "Gregorian Chant.mp3"
+    }
+  ]
+}
