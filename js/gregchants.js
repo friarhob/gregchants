@@ -1,6 +1,6 @@
 var tableInputs = [];
 
-$.getJSON("../data/music-files.json", function(data) {
+$.getJSON("./data/music-files.json", function(data) {
   data.music.forEach(function(music) {
     line = [];
     line.push(music.name);
